@@ -72,13 +72,6 @@ public class App {
         } else {
             System.out.println("Password is not between 8-16 characters.");
         }
-        //Checks if password has a lowercase letter
-
-        //Checks if password has an uppercase letter
-
-        //Checks if password ha a number
-
-        //Checks if password has a special symbol
 
         scanner.close();
     }
